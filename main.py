@@ -1,5 +1,5 @@
 
-
+#FUNCTIONAL PROMPT
 # Once a functional solution to this problem has been implemented, answer the following questions.
 # Q - How does this solution ensure data immutability?
 # A - The data will not change becuase it can only print out data that has been declard in the array. 
@@ -20,7 +20,7 @@
 
 
 
-
+#OBJECT ORIENTED PROMPT
 # Once an Object Oriented solution has been implemented, answer the following questions:
 # How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
 # Encapsulation
@@ -39,7 +39,7 @@
 
 
 
-# Reflection
+# REFLECTION
 # Take some time now to think about the lessons we've just covered. Prompting questions have been provided, but reflections do not need to be limited to only their answers.
 
 # Q - Is one of these coding paradigms "better" than the other? Why or why not?
