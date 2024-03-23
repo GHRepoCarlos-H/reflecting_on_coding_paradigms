@@ -24,6 +24,7 @@
 # Once an Object Oriented solution has been implemented, answer the following questions:
 # How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
 # Encapsulation
+# A - Each class Podracer, AnakinsPod and SebulbasPod encapsulates its own data within. 
 # Abstraction
 # Inheritance
 # Polymorphism
@@ -41,10 +42,14 @@
 # Reflection
 # Take some time now to think about the lessons we've just covered. Prompting questions have been provided, but reflections do not need to be limited to only their answers.
 
-# Is one of these coding paradigms "better" than the other? Why or why not?
+# Q - Is one of these coding paradigms "better" than the other? Why or why not?
+# A - They both serve a different purpose, i think the approach for both of the is adequate. 
 
-# Given the opportunity to work predominantly using either of these coding paradigms, which seems more appealing? Why?
+# Q - Given the opportunity to work predominantly using either of these coding paradigms, which seems more appealing? Why?
+# A - Functional programming is easier to undertand in my opinion. I think the data is easier to follow, pass and render if necessary. 
 
-# Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
+# Q - Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
+# A - Functional programming can be used 
 
-# Personally, which of these styles takes more work to understand? What should be done in order to deepen understanding related to this paradigm?
+# Q - Personally, which of these styles takes more work to understand? What should be done in order to deepen understanding related to this paradigm?
+# A - I think OOP takes longer to understand. I would need to breakdown each concept (classes, objects, attributes, methods, inheritance, polymorphism, encapulation, abstraction, constructor and destructor). 
